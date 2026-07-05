@@ -6,9 +6,7 @@ Point the tool at any video (screen capture) → it reconstructs **everyone's fu
 
 > Research / portfolio prototype. Non-commercial.
 
-![demo](docs/demo.gif)
-<!-- 데모: docs/demo.gif 넣기. 전체 영상은 YouTube 링크로 -->
-**Demo video:** _(YouTube 링크 넣기)_
+![demo](demo.gif)
 
 ---
 
